@@ -1,4 +1,4 @@
-
+# sobel and find edges of imageS
 import cv2 as cv
 import numpy as np
 
